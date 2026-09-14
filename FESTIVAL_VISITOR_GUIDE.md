@@ -2,47 +2,49 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: [Jeriel Peguero]
+- Course and section: [CSC 350 1300]
+- Date: [9/14/2026]
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: [Main]
+- Personal Homework 2 GitHub URL: [https://github.com/jerielPeguero/CSC350-HW2.git]
+- Starting `git status`: [On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean]
+- Starting preparation commit ID: [bd125dd]
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: [Byte City Technology Festival]
+- Location: [BMCC Fiterman Hall, 30 Church St, New York, NY 10007]
+- Intended audience: [Everybody]
+- Theme: [Connecting code, community, and creativity.]
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   [In the working tree]
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   [No]
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: [Fulton Street (A, C, J, Z, 2, 3, 4, 5 lines) – 3 minutes walking distance.]
+- Entrance or meeting location: [Main Visitor Entrance is located at the front lobby on 30 Church St. Follow the directional signage for registration and digital badge scanning.]
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. [All main stages, exhibition halls, and presentation rooms are fully wheelchair accessible via ramps and elevator service located near the main lobby.]
+2. [ADA-compliant accessible restrooms are available on every floor, clearly marked with international accessibility signage.]
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+[Respect fellow attendees, staff, and speakers, and follow all safety and security guidelines posted around the venue.]
 
 ## GitHub Verification
 
@@ -78,4 +80,3 @@
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
    [Your answer]
-
