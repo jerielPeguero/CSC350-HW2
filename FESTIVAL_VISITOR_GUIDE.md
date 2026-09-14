@@ -63,20 +63,20 @@ nothing to commit, working tree clean]
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   [Saving a file only updates it on the local hard drive or editor workspace, whereas committing takes a snapshot of those saved changes and records them permanently into your local Git repository's history with a unique ID and message.]
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   [git diff shows the modifications in your working directory that have not yet been staged, while git diff --staged displays the changes that have already been added to the staging area (git add) and are ready to be included in the next commit.]
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   [Because the verification sentence was created and committed directly on the remote GitHub server via the web browser, meaning the local copy of the repository was still pointing to an older snapshot until you explicitly fetched and merged those remote changes.]
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   [The -u flag links your local branch to the remote branch on GitHub (origin/main), allowing you to use simple commands like git push or git pull in the future without needing to specify the remote name and branch every time.]
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   [The confirmation in the terminal showing that both local and remote pointers match the latest commit hash (alongside a clean git status indicating no uncommitted changes and an up-to-date branch status) proves synchronization.]
